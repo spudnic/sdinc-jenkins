@@ -6,13 +6,6 @@ TODO: Enter the cookbook description here.
 
 ### Tested And Validated On
 - Ubuntu 14.04
-- OSX 10.9.x
-TODO maybe support windows
-- Windows Server 2012 R2
-
-## Usage
-
-TODO: Include usage patterns of any providers or recipes.
 
 ### sdinc-jenkins::default
 
